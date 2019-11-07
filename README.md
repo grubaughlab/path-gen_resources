@@ -33,12 +33,27 @@ Lectures, papers, and online resources for pathogen sequencing.
 - Links to metagenomic, amplicon, and other sequencing protocols in development.
 - Link = http://grubaughlab.com/open-science/protocols/
 
-**Artic Network: Virus specific resources for MinION sequencing.
+**Artic Network: Virus specific resources for MinION sequencing**
 - Detailed list of reagents/equipment, sequencing protocols, and workflows setting up laptops, bioinformatic analysis, & data viz. 
 - Link = https://artic.network/resources
 
-**The ZiBRA Pipeline for Zika virus sequencing using the MinION.
+**The ZiBRA Pipeline for Zika virus sequencing using the MinION**
 - Detailed protocols for sequencing, basecalling, and analysis.
 - Link = http://www.zibraproject.org/protocol/
 
 ## Technical papers
+
+**An amplicon-based sequencing framework for accurately measuring intrahost virus diversity using PrimalSeq and iVar**
+- https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1618-7
+
+**Multiplex PCR method for MinION and Illumina sequencing of Zika and other virus genomes directly from clinical samples**
+- https://www.nature.com/articles/nprot.2017.066
+
+**Enhanced methods for unbiased deep sequencing of Lassa and Ebola RNA viruses from clinical and biological samples**
+- https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0519-7
+
+**Library preparation for highly accurate population sequencing of RNA viruses**
+- https://www.nature.com/articles/nprot.2014.118
+
+**Capturing sequence diversity in metagenomes with comprehensive and scalable probe design**
+- https://www.nature.com/articles/s41587-018-0006-x
