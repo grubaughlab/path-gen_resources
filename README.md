@@ -26,7 +26,7 @@ Lectures, papers, and online resources for pathogen sequencing.
 ## Online resources
 
 **Amplicon-based virus sequencing using Illumina and MioION platforms**
-
-[http://grubaughlab.com/open-science/amplicon-sequencing/]
+- Detailed protocols for designing amplicon schemes, preparing the libraries, and analyzing the data.
+- Link = http://grubaughlab.com/open-science/amplicon-sequencing/
 
 ## Technical papers
