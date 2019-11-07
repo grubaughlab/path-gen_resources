@@ -1,4 +1,4 @@
-# Pathogen genomic sequencing Resources
+# Pathogen Genomic Sequencing Resources
 Lectures, papers, and online resources for pathogen sequencing.
 
 ## Lectures
@@ -25,8 +25,20 @@ Lectures, papers, and online resources for pathogen sequencing.
 
 ## Online resources
 
-**Amplicon-based virus sequencing using Illumina and MioION platforms**
+**Grubaugh Lab: Amplicon-based virus sequencing using Illumina and MioION platforms**
 - Detailed protocols for designing amplicon schemes, preparing the libraries, and analyzing the data.
 - Link = http://grubaughlab.com/open-science/amplicon-sequencing/
+
+**Grubaugh Lab: Protocols in development**
+- Links to metagenomic, amplicon, and other sequencing protocols in development.
+- Link = http://grubaughlab.com/open-science/protocols/
+
+**Artic Network: Virus specific resources for MinION sequencing.
+- Detailed list of reagents/equipment, sequencing protocols, and workflows setting up laptops, bioinformatic analysis, & data viz. 
+- Link = https://artic.network/resources
+
+**The ZiBRA Pipeline for Zika virus sequencing using the MinION.
+- Detailed protocols for sequencing, basecalling, and analysis.
+- Link = http://www.zibraproject.org/protocol/
 
 ## Technical papers
