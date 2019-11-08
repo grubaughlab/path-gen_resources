@@ -11,7 +11,7 @@ Lectures, papers, and online resources for pathogen sequencing.
 **Grubaugh Lab NGS Sample Prep Protocols**
 - By Joseph Fauver, presented during 2019.05.03 Grubaugh Lab meeting in New Haven, CT
 - Describes details of what happens at each step of library prep and sequencing.
-- File = (2019.05.03_NGS_protocols_Fauver.pptx)
+- File = 2019.05.03_NGS_protocols_Fauver.pptx[https://github.com/grubaughlab/path-gen_resources/blob/master/2019.05.03_NGS-protocols_Fauver.pptx]
 
 **Principles of Molecular Epidemiology**
 - By Nathan Grubaugh, presented during the 2019 EpiMol workshop in Salvador, Brazil
