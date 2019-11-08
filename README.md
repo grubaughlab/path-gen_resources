@@ -16,44 +16,42 @@ Lectures, papers, and online resources for pathogen sequencing.
 **Principles of Molecular Epidemiology**
 - By Nathan Grubaugh, presented during the 2019 EpiMol workshop in Salvador, Brazil
 - Describes the fundamentals of pathogen genomic epidemiology, phylogenetic methods, and probability errors and validity.
-- File = (2019.07.23_principles-in-mol-epi_Grubaugh.pptx)
+- File = [2019.07.23_principles-in-mol-epi_Grubaugh.pptx](https://github.com/grubaughlab/path-gen_resources/blob/master/2019.07.23_principles-in-mol-epi_Grubaugh.pptx)
 
 **Practices in Molecular Epidemiology**
 - By Nathan Grubaugh, presented during the 2019 EpiMol workshop in Salvador, Brazil
 - Describes what you can learn by reading a phylogenetic tree.
-- File = (2019.07.23_practices-in-mol-epi_Grubaugh.pptx)
+- File = [2019.07.23_practices-in-mol-epi_Grubaugh.pptx](https://github.com/grubaughlab/path-gen_resources/blob/master/2019.07.23_practices-in-mol-epi_Grubaugh.pptx)
 
 ## Online resources
 
-**Grubaugh Lab: Amplicon-based virus sequencing using Illumina and MioION platforms**
+**[Grubaugh Lab: Amplicon-based virus sequencing using Illumina and MioION platforms](http://grubaughlab.com/open-science/amplicon-sequencing/)**
 - Detailed protocols for designing amplicon schemes, preparing the libraries, and analyzing the data.
-- Link = http://grubaughlab.com/open-science/amplicon-sequencing/
 
-**Grubaugh Lab: Protocols in development**
+**[Grubaugh Lab: Protocols in development](http://grubaughlab.com/open-science/protocols/)**
 - Links to metagenomic, amplicon, and other sequencing protocols in development.
-- Link = http://grubaughlab.com/open-science/protocols/
 
-**Artic Network: Virus specific resources for MinION sequencing**
+**[Artic Network: Virus specific resources for MinION sequencing](https://artic.network/resources)**
 - Detailed list of reagents/equipment, sequencing protocols, and workflows setting up laptops, bioinformatic analysis, & data viz. 
-- Link = https://artic.network/resources
 
-**The ZiBRA Pipeline for Zika virus sequencing using the MinION**
+**[The ZiBRA Pipeline for Zika virus sequencing using the MinION](http://www.zibraproject.org/protocol/)**
 - Detailed protocols for sequencing, basecalling, and analysis.
-- Link = http://www.zibraproject.org/protocol/
 
 ## Technical papers
 
-**An amplicon-based sequencing framework for accurately measuring intrahost virus diversity using PrimalSeq and iVar**
-- https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1618-7
+**[An amplicon-based sequencing framework for accurately measuring intrahost virus diversity using PrimalSeq and iVar](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1618-7)**
+- Grubaugh et al., 2019. *Genome Biology*
 
-**Multiplex PCR method for MinION and Illumina sequencing of Zika and other virus genomes directly from clinical samples**
-- https://www.nature.com/articles/nprot.2017.066
+**[Multiplex PCR method for MinION and Illumina sequencing of Zika and other virus genomes directly from clinical samples](https://www.nature.com/articles/nprot.2017.066)**
+- Quick et al., 2017. *Nature Protocols*
 
-**Enhanced methods for unbiased deep sequencing of Lassa and Ebola RNA viruses from clinical and biological samples**
-- https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0519-7
+**[Enhanced methods for unbiased deep sequencing of Lassa and Ebola RNA viruses from clinical and biological samples](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0519-7)**
+- Matranga et al., 2014. *Genome Biology*
 
-**Library preparation for highly accurate population sequencing of RNA viruses**
-- https://www.nature.com/articles/nprot.2014.118
+**[Library preparation for highly accurate population sequencing of RNA viruses](https://www.nature.com/articles/nprot.2014.118)**
+- Avevedo & Andino, 2014. *Nature Protocols*
 
-**Capturing sequence diversity in metagenomes with comprehensive and scalable probe design**
-- https://www.nature.com/articles/s41587-018-0006-x
+**[Capturing sequence diversity in metagenomes with comprehensive and scalable probe design](https://www.nature.com/articles/s41587-018-0006-x)**
+- Metsky et al., 2019. *Nature Biotechnology*
+
+
