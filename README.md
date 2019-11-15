@@ -3,10 +3,10 @@ Lectures, papers, and online resources for pathogen sequencing.
 
 ## Lectures
 
-**The NGS Toolbox for Arbovirologists: Do I Need a Screwdriver or a Hammer?**
+**The NGS Toolbox: Do I Need a Screwdriver or a Hammer?**
 - By Nathan Grubaugh, presented during the 2019 ASTMH Pre-meeting workshop "Arboviromics: How ‘omics’ Technologies are Advancing Arbovirus Research and Control" in Washington, DC.
 - Describes what to consider when selecting sequencing approaches and platforms.
-- File = (2019.11.20_ACAV-premeeting_Grubaugh.pptx)
+- File = [2019.11.20_ACAV-premeeting_Grubaugh.pptx](https://github.com/grubaughlab/path-gen_resources/blob/master/2019.11.20_ACAV-premeeting_Grubaugh.pptx)
 
 **Grubaugh Lab NGS Sample Prep Protocols**
 - By Joseph Fauver, presented during 2019.05.03 Grubaugh Lab meeting in New Haven, CT
