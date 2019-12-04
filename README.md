@@ -37,6 +37,9 @@ Lectures, papers, and online resources for pathogen sequencing.
 **[The ZiBRA Pipeline for Zika virus sequencing using the MinION](http://www.zibraproject.org/protocol/)**
 - Detailed protocols for sequencing, basecalling, and analysis.
 
+**[CADDE: Arbovirus sequencing protocols using MinION](http://www.caddecentre.org/protocols/)**
+- Development, validation and application of novel genome sequencing technologies to characterise known and unknown arboviruses in human populations, in sentinel vector (mosquito) populations, and in non-human reservoirs.
+
 ## Technical papers
 
 **[An amplicon-based sequencing framework for accurately measuring intrahost virus diversity using PrimalSeq and iVar](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1618-7)**
